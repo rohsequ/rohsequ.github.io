@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4ae4a659.chunk.css",
+    "main.js": "./static/js/main.2b124870.chunk.js",
+    "main.js.map": "./static/js/main.2b124870.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.41c11988.js",
+    "runtime-main.js.map": "./static/js/runtime-main.41c11988.js.map",
+    "static/js/2.eedbfb75.chunk.js": "./static/js/2.eedbfb75.chunk.js",
+    "static/js/2.eedbfb75.chunk.js.map": "./static/js/2.eedbfb75.chunk.js.map",
+    "static/css/3.8454efbb.chunk.css": "./static/css/3.8454efbb.chunk.css",
+    "static/js/3.29b12934.chunk.js": "./static/js/3.29b12934.chunk.js",
+    "static/js/3.29b12934.chunk.js.map": "./static/js/3.29b12934.chunk.js.map",
+    "static/css/4.fe7e1d8c.chunk.css": "./static/css/4.fe7e1d8c.chunk.css",
+    "static/js/4.0151dc50.chunk.js": "./static/js/4.0151dc50.chunk.js",
+    "static/js/4.0151dc50.chunk.js.map": "./static/js/4.0151dc50.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/3.8454efbb.chunk.css.map": "./static/css/3.8454efbb.chunk.css.map",
+    "static/css/4.fe7e1d8c.chunk.css.map": "./static/css/4.fe7e1d8c.chunk.css.map",
+    "static/css/main.4ae4a659.chunk.css.map": "./static/css/main.4ae4a659.chunk.css.map",
+    "static/js/2.eedbfb75.chunk.js.LICENSE.txt": "./static/js/2.eedbfb75.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/IISc_logo.jpg": "./static/media/IISc_logo.fc321537.jpg",
+    "static/media/award_from_principal.jpeg": "./static/media/award_from_principal.f44e7cec.jpeg",
+    "static/media/best_project_award.jpeg": "./static/media/best_project_award.03bb24d5.jpeg",
+    "static/media/cisco_logo_2.png": "./static/media/cisco_logo_2.a40df4a9.png",
+    "static/media/cisco_security.png": "./static/media/cisco_security.0b8a1241.png",
+    "static/media/contactMailDark.svg": "./static/media/contactMailDark.1db650d3.svg",
+    "static/media/developerActivity.svg": "./static/media/developerActivity.2c0445ca.svg",
+    "static/media/proficiency_svg.svg": "./static/media/proficiency_svg.86015dcc.svg",
+    "static/media/psgtech_logo.png": "./static/media/psgtech_logo.7c80a771.png",
+    "static/media/TalkCard.scss": "./static/media/talksCardBack.73ed1545.svg",
+    "static/media/test_try.png": "./static/media/test_try.e1f4ad95.png",
+    "static/media/u_m_logo.png": "./static/media/u_m_logo.7b013ef9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41c11988.js",
+    "static/js/2.eedbfb75.chunk.js",
+    "static/css/main.4ae4a659.chunk.css",
+    "static/js/main.2b124870.chunk.js"
+  ]
+}
