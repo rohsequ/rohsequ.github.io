@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.2c1f3e74.css",
-    "main.js": "/static/js/main.51e93a11.js",
+    "main.js": "/static/js/main.d3d53481.js",
     "static/css/141.fa09a82f.chunk.css": "/static/css/141.fa09a82f.chunk.css",
     "static/js/141.0d619733.chunk.js": "/static/js/141.0d619733.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.092511ef.chunk.js": "/static/js/769.092511ef.chunk.js",
     "static/media/IISc_logo.jpg": "/static/media/IISc_logo.fc321537422bb4bdf966.jpg",
+    "static/media/Subaru-Logo.png": "/static/media/Subaru-Logo.05a5da50534017ad19ee.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/award_from_principal.jpeg": "/static/media/award_from_principal.f44e7cec6c10c20a74cd.jpeg",
     "static/media/psgtech_logo.png": "/static/media/psgtech_logo.7c80a771697584f265d0.png",
     "static/media/test_try.png": "/static/media/test_try.e1f4ad9549e7104a8d05.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/best_project_award.jpeg": "/static/media/best_project_award.03bb24d5d1059ae6a906.jpeg",
-    "static/media/Subaru-Logo.png": "/static/media/Subaru-Logo.ff2e37b564940b9efc7d.png",
     "static/media/cisco_security.png": "/static/media/cisco_security.0b8a1241bf7e6445f551.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
@@ -23,7 +23,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.2c1f3e74.css.map": "/static/css/main.2c1f3e74.css.map",
-    "main.51e93a11.js.map": "/static/js/main.51e93a11.js.map",
+    "main.d3d53481.js.map": "/static/js/main.d3d53481.js.map",
     "141.fa09a82f.chunk.css.map": "/static/css/141.fa09a82f.chunk.css.map",
     "141.0d619733.chunk.js.map": "/static/js/141.0d619733.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.2c1f3e74.css",
-    "static/js/main.51e93a11.js"
+    "static/js/main.d3d53481.js"
   ]
 }
